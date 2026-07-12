@@ -1,6 +1,9 @@
 # Virtual Environment
 .venv/
 
+# VS Code
+.vscode/
+
 # Python Cache
 __pycache__/
 *.pyc
@@ -12,7 +15,7 @@ __pycache__/
 *.pkl
 *.joblib
 
-# Processed Data
+# Processed Data (optional)
 datasets/processed/
 
 # OS Files

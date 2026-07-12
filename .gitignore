@@ -1,5 +1,5 @@
 # Virtual Environment
-.venv/
+.mlmlab/
 
 # VS Code
 .vscode/

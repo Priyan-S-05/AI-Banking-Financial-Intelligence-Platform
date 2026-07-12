@@ -1,0 +1,12 @@
+Dataset,Rows,Columns
+Customers,1111,6
+Accounts,1667,6
+Transactions,50000,8
+Loans,333,7
+Branches,50,3
+Addresses,1222,4
+Account Types,5,2
+Account Status,3,2
+Customer Types,3,2
+Loan Status,3,2
+Transaction Types,4,2

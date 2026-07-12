@@ -1,0 +1,12 @@
+Dataset,Purpose
+Customers,Stores customer information
+Accounts,Stores customer bank account information
+Transactions,Stores transaction history
+Loans,Stores loan information
+Branches,Stores branch information
+Addresses,Stores customer addresses
+Account Types,Stores account type definitions
+Account Statuses,Stores account status definitions
+Customer Types,Stores customer categories
+Loan Statuses,Stores loan status definitions
+Transaction Types,Stores transaction type definitions

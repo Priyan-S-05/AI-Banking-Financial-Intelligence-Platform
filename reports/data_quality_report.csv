@@ -1,0 +1,12 @@
+Dataset,Rows,Columns,Missing Values,Duplicate Rows
+Customers,1111,6,45,11
+Accounts,1667,6,33,16
+Transactions,50000,8,1000,500
+Loans,333,7,12,3
+Branches,50,3,0,0
+Addresses,1222,4,74,12
+Account Types,5,2,0,0
+Account Status,3,2,0,0
+Customer Types,3,2,0,0
+Loan Status,3,2,0,0
+Transaction Types,4,2,0,0
